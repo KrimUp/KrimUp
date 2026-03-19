@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+KrimUp+%F0%9F%91%8B;Infrastructure+Engineer;Datacenter+Networks+%26+Storage;Ansible+%7C+Bash+%7C+Linux+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+KrimUp+%F0%9F%91%8B;Infrastructure+Engineer;Datacenter+Networks+%26+Storage;Ansible+%7C+Bash+%7C+Linux+Enthusiast;Virtualization+%7C+OpenNebula+%7C+KVM" alt="Typing SVG" /></a>
 
 </div>
 
@@ -19,6 +19,7 @@ location: Worldwide
 - 💾 **Storage Architecture** — designing storage solutions with **Ceph**, **Huawei OceanStor** and **Synology**
 - 📜 **Bash Scripting** — automating everything that can be automated
 - 🤖 **Ansible Master** — writing production-grade roles for infrastructure equipment
+- 🖥️ **Virtualization** — deploying and managing virtual environments with **OpenNebula**, **QEMU/KVM**
 
 ---
 
@@ -38,6 +39,11 @@ location: Worldwide
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🖥️ Virtualization
+![OpenNebula](https://img.shields.io/badge/OpenNebula-0079BE?style=for-the-badge&logo=opennebula&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-F0A30A?style=for-the-badge&logoColor=white)
 
 ### 🐳 Containers & VCS
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
